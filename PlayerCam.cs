@@ -17,6 +17,6 @@ public classn PlayerCam : MonoBehaviour
     }
 
     private void Update()
-    float  mouseX=iomn
+    float  mouseX=iom
     float mouseY=Input.GetAxis("Mouse Y")*sensY*Time.deltaTime;
      
